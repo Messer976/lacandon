@@ -1,4 +1,5 @@
 {
-    "workbench.colorTheme": "Quiet Light",
-    "plantuml.exportOutDir": "doc/plantuml-out"
+  "workbench.colorTheme": "Quiet Light",
+  "plantuml.exportOutDir": "doc/plantuml-out",
+  "java.compile.nullAnalysis.mode": "automatic"
 }
